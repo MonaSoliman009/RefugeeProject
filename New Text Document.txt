@@ -1,0 +1,8 @@
+-services:
+apartments
+jobs
+definition
+
+-slider edit
+-login(single page)
+-news .....fokir our portfolio
